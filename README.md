@@ -1,5 +1,7 @@
 # SetoolLinux
 SetoolLinux--A open source Social Engineering tool.
+使用Python开发的社会工程学工具集。
+具有收集互联网证据、追踪人员发现漏洞等功能。
 
 SetoolLinux--一款开源的社会工程学工具
 
