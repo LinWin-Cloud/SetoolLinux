@@ -1,6 +1,14 @@
 # SetoolLinux
 SetoolLinux--A open source Social Engineering tool.
 
+# About
+Setool Linux is a open resources project.You can revise the code ,fork or use it other project.
+There are very useful function in this toolkit,But you do not worry about you can not use these
+tools.They are very easy.Never use these tools to attack a people you do not know , or you may 
+be have a lot of terrible.
+
+
+
 SetoolLinux
 
 1:Social Engineering 
