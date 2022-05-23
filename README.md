@@ -8,10 +8,22 @@ tools.They are very easy.Never use these tools to attack a people you do not kno
 be have a lot of terrible.
 
 # vistion
-1. v1.0 2022.1.5
-2. v1.1 2022.3.5 
-3. v1.2 2022.3.6
-4. 2.1 
+1. v1.0   2022.1.5
+2. v1.1   2022.3.5 
+3. v1.2   2022.3.6
+4. v1.3.1 2022.5.23
+
+The Updated version:https://github.com/LinWin-Cloud/setool-master
+
+# running vistion
+Setool Linux
+1.resources code
+
+Setool Master
+1. resources code vistion
+2. build vistion
+3. install package vistion
+4. android_termux vistion
 
 SetoolLinux
 
