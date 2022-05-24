@@ -7,6 +7,11 @@ There are very useful function in this toolkit,But you do not worry about you ca
 tools.They are very easy.Never use these tools to attack a people you do not know , or you may 
 be have a lot of terrible.
 
+Setool Linux是一个开源项目。你能修改代码，复制，或者将其用于其他项目。
+有非常多的使用功能在这个工具包，但是你不需要担心你不会使用这些工具。
+他们是非常简单易用的。绝对不要将这些工具去攻击一个你不认识的人，或者你
+可能会遇到一些麻烦
+
 # vistion
 1. v1.0   2022.1.5
 2. v1.1   2022.3.5 
