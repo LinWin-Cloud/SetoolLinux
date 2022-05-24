@@ -12,6 +12,7 @@ be have a lot of terrible.
 2. v1.1   2022.3.5 
 3. v1.2   2022.3.6
 4. v1.3.1 2022.5.23
+5. v1.4.1 2022.5.24
 
 The Updated version:https://github.com/LinWin-Cloud/setool-master
 
