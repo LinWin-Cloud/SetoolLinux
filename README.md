@@ -23,13 +23,13 @@ The Updated version:https://github.com/LinWin-Cloud/setool-master
 
 # running vistion
 Setool Linux
-1.resources code
+1.resources code  源代码
 
 Setool Master
-1. resources code vistion
-2. build vistion
-3. install package vistion
-4. android_termux vistion
+1. resources code vistion   源代码版本
+2. build vistion            编译版本
+3. install package vistion  安装包版本
+4. android_termux vistion   安卓termux版本
 
 # function
 
