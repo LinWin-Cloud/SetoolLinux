@@ -18,6 +18,7 @@ Setool Linux是一个开源项目。你能修改代码，复制，或者将其�
 3. v1.2   2022.3.6
 4. v1.3.1 2022.5.23
 5. v1.4.1 2022.5.24
+6. v1.4.2 2022.5.27
 
 The Updated version:https://github.com/LinWin-Cloud/setool-master
 
