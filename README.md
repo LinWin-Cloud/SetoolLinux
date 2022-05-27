@@ -1,6 +1,13 @@
 # SetoolLinux
-SetoolLinux--A open source Social Engineering tool.
+SetoolLinux--A open source Social Engineering toolkit.
 
+SetoolLinux——一个开源的社会工程学工具集
+
+# 发行版对比
+SetoolLinux 是 轻量化个人版本 发型于2022.1.5      适用于快速攻击、测试、收集证据、普通计算机系统瘫痪
+地址:https://github.com/LinWin-Cloud/SetoolLinux/
+SetoolMaster是 进阶型个人版本 发型于2022.5.12     适用于面向比较复杂的社工测试攻击、收集证据、版本适配、多级计算机系统瘫痪
+地址:https://github.com/LinWin-Cloud/setool-master/
 # About
 Setool Linux is a open resources project.You can revise the code ,fork or use it other project.
 There are very useful function in this toolkit,But you do not worry about you can not use these
