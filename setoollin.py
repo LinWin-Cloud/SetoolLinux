@@ -12,20 +12,18 @@ import time
 time.sleep(0.5)
 print("")
 print("")
-print("[*]======================================================[*]")
-print("[*]======================================================[*]")
-print("  [*]--------------------------------------------------[*]  ")
-print("               -- S e t o o l L i n u x --                  ")
-print("          [*] M a k i n g   I n   C h i n a [*]             ")
-print("               F o r   L i n u x   2 0 2 2                  ")
-print("  [*]-----------------------------------------------[*]  ")
-print("[*]===================================================[*]")
-print("[*]===================================================[*]")
+print("""
+    [*]===================================[*]
+               -SetoolLinux-
+               For Linux 2022
+      https://github.com/LinWin-Cloud
+    [*]===================================[*]
+"""")
 print("")
-print("[*]-- The Vistion For Linux 2022")
-print("[*]--Social Engineering Tool Linux")
-print("[*]--Shodan Server , you can more information form https://www.shodan.com")
-print("[*]--Make In China")
+print("[*]The Vistion For Linux 2022")
+print("[*]Social Engineering Tool Linux")
+print("[*]Shodan Server , you can more information form https://www.shodan.com")
+print("[*]Making In China")
 print("")
 print("")
 #==================================================
