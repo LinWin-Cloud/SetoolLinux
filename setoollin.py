@@ -14,11 +14,11 @@ print("")
 print("")
 print("""
     [*]===================================[*]
-               -SetoolLinux-
-               For Linux 2022
-      https://github.com/LinWin-Cloud
+                  -SetoolLinux-
+                 For Linux 2022
+        https://github.com/LinWin-Cloud
     [*]===================================[*]
-"""")
+""")
 print("")
 print("[*]The Vistion For Linux 2022")
 print("[*]Social Engineering Tool Linux")
