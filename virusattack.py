@@ -42,6 +42,8 @@ def list():
     print("1:-Window Virus       -Windows               *.bat")
     print("2:-Key Virus          -Windows               *.vbs")
     print("3:-Blue screen Virus  -Windows               *.bat")
+    print('4:-Basic Virus        -Windows            *.bat;*.vbs')
+    print('[*]You can use Basic virus in the path: /basic_virus')
     #end the list 
     #-window virus ; key virus ; blue screen virus
     print("Enter The Key 4 Back")
