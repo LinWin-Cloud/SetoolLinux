@@ -45,7 +45,8 @@ Setool Master
 1. resources code vistion   源代码版本
 2. build vistion            编译版本
 3. install package vistion  安装包版本
-4. android_termux vistion   安卓termux版本
+4. android_termux_build   安卓termux版本
+5. android_termux 源代码版本
 
 # function
 
