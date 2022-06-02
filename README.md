@@ -37,7 +37,7 @@ Setool Linux是一个开源项目。你能修改代码，复制，或者将其�
 
 The Updated version:https://github.com/LinWin-Cloud/setool-master
 
-# running vistion
+# 运行版本
 Setool Linux
 1.resources code  源代码
 
@@ -48,7 +48,7 @@ Setool Master
 4. android_termux_build   安卓termux版本
 5. android_termux 源代码版本
 
-# function
+# 功能
 
 1:Social Engineering
   -1-QQ logon attack               
