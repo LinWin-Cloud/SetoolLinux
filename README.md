@@ -5,6 +5,7 @@ SetoolLinux——一个开源的社会工程学工具集
 
 # 使用文档
 <li>1. <a href='https://github.com/LinWin-Cloud/SetoolLinux/blob/main/使用文档.md'>Setool Linux 参考使用文档</a></li>
+<li>2. <a href=''>相关可移植工具库文档</a></li>
 
 # 发行版对比
 SetoolLinux 是 轻量化个人版本 发型于2022.1.5      适用于快速攻击、测试、收集证据、普通计算机系统瘫痪
@@ -38,6 +39,7 @@ Setool Linux是一个开源项目。你能修改代码，复制，或者将其�
 9. v1.5.1 2022.5.30 修复部分错误代码
 10. v1.5.2 2022.6.1 整体更新计算机破坏脚本模块、更新文档注释、配置文件
 11. v1.5.3 2022.6.4 更新使用文档文档
+12. v1.5.4 2022.6.6 增加了 相关可移植工具库文档
 
 The Updated version:https://github.com/LinWin-Cloud/setool-master
 
