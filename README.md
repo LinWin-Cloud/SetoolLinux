@@ -3,6 +3,7 @@ SetoolLinux--A open source Social Engineering toolkit.
 
 SetoolLinux——一个开源的社会工程学工具集
 
+
 # 使用文档
 <li>1. <a href='https://github.com/LinWin-Cloud/SetoolLinux/blob/main/使用文档.md'>Setool Linux 参考使用文档</a> 2022.6.8更新</li>
 <li>2. <a href='https://github.com/LinWin-Cloud/SetoolLinux/blob/main/可移植工具库库文档.md'>相关可移植工具库文档</a></li>
@@ -12,9 +13,11 @@ SetoolLinux 是 轻量化个人版本 发型于2022.1.5      适用于快速攻�
 
 地址:https://github.com/LinWin-Cloud/SetoolLinux/
 
-SetoolMaster是 进阶型个人版本 发型于2022.5.12     适用于面向比较复杂的社工测试攻击、收集证据、版本适配、多级计算机系统瘫痪
+SetoolMaster是 进阶型组织版本 发型于2022.5.12     适用于面向比较复杂的社工测试攻击、收集证据、版本适配、多级计算机系统瘫痪
 
 地址:https://github.com/LinWin-Cloud/setool-master/
+
+Setool-ToGo 是 轻量化远程部署版本 发行于2022.6.23 适用于在云端或者其他已经被控制的计算机内快速部署使用、面向隐蔽、及时、快速获取个人和团体信息、收集证据
 
 # About
 Setool Linux is a open resources project.You can revise the code ,fork or use it other project.
@@ -43,8 +46,7 @@ Setool Linux是一个开源项目。你能修改代码，复制，或者将其�
 13. v1.5.5 2022.6.8 更新修复部分文档错误和内容、修复部分代码错误
 14. v1.5.6 2022.6.20 更新源代码
 15. v1.5.7 2022.6.22 更新配置文件
-
-<iframe src=''></iframe>
+16. v1.5.8 2022.6.28 更新源代码、修复源码错误、更新帮助、更新配置文件
 
 The Updated version:https://github.com/LinWin-Cloud/setool-master
 
