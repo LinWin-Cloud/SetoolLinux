@@ -7,7 +7,7 @@ print("finish the file : IP.html")
 
 
 def logo():
-    print("")
+    print("") 
     print("")
     print("===============================")
     print("SetoolLinux-->Get IP Adress")
