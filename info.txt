@@ -1,8 +1,9 @@
 [*]name:SetoolLinux
 [*]For System  : Linux
-[*]Vistion : 1.0
+[*]Vistion : 1.7.3
 [*]Auther : windows observer
 [*]Making In China
 [*]language : English
+[*]You can Visit: https://github.com/LinWin-Cloud/setoollinux
 [*]suggestion : You Can Run The tool In The system : Kali Linux , 
        Ubuntu Linux , Deepin Linux ...
