@@ -1,6 +1,6 @@
 [*]name:SetoolLinux
 [*]For System  : Linux
-[*]Vistion : 1.7.3
+[*]Vistion : 1.6.1
 [*]Auther : windows observer
 [*]Making In China
 [*]language : English
