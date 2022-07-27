@@ -21,7 +21,7 @@ os.system("cp qq/index.js ./")
 os.system("cp qq/qqlogon.jpg ./")
 os.system("python3 -m http.server 8080")
 
-
+ 
 with open("date.txt","a") as f:
     f.write("start the port 8080")
 f.close()
