@@ -28,16 +28,6 @@ print("[*]Making In China")
 print("")
 print("")
 #==================================================
-#write the date to the date.txt
-with open("date.txt","a") as f :
-    f.write("-----------start the setoollin.py")
-f.close()
-
-
-with open("date.txt","a") as f:
-    f.write("/N")
-    f.write("----the main procedure")
-f.close()
 
 import time
 #end the write
