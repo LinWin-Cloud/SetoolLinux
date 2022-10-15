@@ -5,8 +5,6 @@
 
 
 #==================================================
-from http.client import IM_USED
-from re import I
 
 import time
 time.sleep(0.5)
